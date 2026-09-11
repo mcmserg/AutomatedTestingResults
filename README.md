@@ -1,3 +1,4 @@
+[![Java CI with Gradle](https://github.com/mcmserg/AutomatedTestingResults/actions/workflows/blank.yml/badge.svg)](https://github.com/mcmserg/AutomatedTestingResults/actions/workflows/blank.yml)
 # План автоматизации тестирования сценария перехода к форме записи и заполнения формы
 ## 1. Перечень автоматизируемых сценариев
 
